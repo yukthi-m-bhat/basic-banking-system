@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background: #9b59b6;
+}
+.content h1{
+    font-size: 60px;
+    font-weight: 100;
+    margin-top: 24px;
+    margin-bottom: 15px;
+    color: white;
+}
+.content p{
+    font-size: 20px;
+    color: whitesmoke;
+}
+.content{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.btn button{
+    width: 200px;
+    color: #000;
+    font-size: 12px;
+    padding: 12px 0;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 20px;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    margin-top: 10%;
+    margin-left: 10%;
+    font-weight: bold;
+}
+.btn button:hover{
+    background: white;
+    color: #9b59b6;
+}
